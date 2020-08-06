@@ -9,11 +9,15 @@ https://emgal-aguirre.github.io/homework-three-password-generator/
 
 Here are screenshots of my website. 
 
-
+1. Initial prompt.
 ![ ](Assets/ss-pg-1.png)
+
+2. Option for Uppercase,Lowercase, Number & Specail Character. 
 ![ ](Assets/ss-pg-2.png)
 ![ ](Assets/ss-pg-3.png)
 ![ ](Assets/ss-pg-4.png)
 ![ ](Assets/ss-pg-5.png)
+
+3. Final Result.
 ![ ](Assets/ss-pg-6.png)
 
